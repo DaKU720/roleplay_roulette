@@ -5,7 +5,7 @@
 ![image](https://github.com/DaKU720/roleplay_roulette/assets/69478926/bfd2ca1d-5485-4c93-9a4b-f20ce6bee2bc)
 
 ## How to put it in my game?
-There is no UI. Just register a new command /spin that calls the patent above. Start betting money with stranges!
+There is no UI. Just register a new command /spin that calls the patent above to the Chat. Start betting money with strangers!
 
 ##
 Command Line Roulette Game for your RedM / FiveM or other Roleplay Server. 
